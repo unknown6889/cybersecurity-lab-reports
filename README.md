@@ -34,6 +34,10 @@ Welcome to my cybersecurity research and technical lab portfolio. This repositor
 * **[TryHackMe: Borderlands — Secret Leakage & Network Pivoting](./ctfs/borderlands.md)**  
   *Techniques:* Exposed `.git` directory enumeration, secret extraction from commit history, OS shell via SQLMap, network pivoting (SOCKS proxy / Meterpreter) to internal vsFTPd service[cite: 8].
 
+* **[Hack The Box: Layover — Multi-Stage Enterprise Attack Chain](./ctfs/layover.md)**  
+  *Techniques:* RDP jumpbox pivoting[cite: 10], open Wi-Fi HTTP credential capture[cite: 10], Craft CMS authenticated RCE[cite: 10], Yii2 application key decryption[cite: 10], CUPS local privilege escalation (CVE-2026-34990)[cite: 10].  
+  *Résultat:* Compromission complète multi-réseau de l'environnement jumpbox vers le serveur cible et élévation de privilèges root.
+
 ---
 
 ## 🛠️ Security Methodology & Tooling
