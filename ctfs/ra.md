@@ -88,4 +88,4 @@ When verifying privileges, attempts to log in using newly created accounts retur
 
 ---
 
-*Author: **Oussama DIMOQRATI***
+*Author: **d3m0s-null***
