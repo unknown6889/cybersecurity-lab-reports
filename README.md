@@ -54,5 +54,7 @@ Welcome to my cybersecurity research and technical lab portfolio. This repositor
 All experiments, security assessments, and technical writeups contained in this repository were conducted strictly within isolated lab environments or authorized CTF platforms.
 
 ---
-**Author:** Oussama DIMOQRATI  
+## Author
+
+**d3m0s-null**
 *Cybersecurity Engineering Student | CESI Graduate School of Engineering*  
